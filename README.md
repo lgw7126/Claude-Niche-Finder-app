@@ -1,6 +1,8 @@
 # 🏪 상권 체크 리포트
 
-> **▶ 앱 실행하기 (로컬):** 터미널에서 아래 명령어 실행 후 브라우저에서 http://localhost:8501 접속
+> **▶ 앱 바로 실행:** https://claude-niche-finder-app-bdo9keb8kmsbw6tg6cqfnw.streamlit.app
+
+> **로컬 실행:** 터미널에서 아래 명령어 실행 후 http://localhost:8501 접속
 > ```
 > cd Desktop\Claude-Niche-Finder-app
 > py -m streamlit run app.py
